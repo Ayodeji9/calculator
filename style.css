@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card1{
+    background-color:black;
+    border-radius: 20px;
+    /* width: 30%; */
+}
+.input{
+    width: 100%;
+    height: 15vh;
+    text-align: right;
+    font-size: 50px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: inset 3px 3px 3px 3px rgb(229, 229, 229) !important;
+    /* margin-top: 100px; */
+}
+.input1{
+    width: 100%;
+    /* height: 5vh; */
+    text-align: right;
+    font-size: 50px;
+    border-radius: 5px;
+    border: none;
+   
+
+    border-bottom:none;
+}
+.input1a{
+    width: 100%;
+    font-size: 50px;
+    border-radius: 5px;
+    border: none;
+
+    border-top: none;
+    margin-top: 10px;
+}
+
+.inputdiv{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    background-color: white ;
+    box-shadow: inset 2px 2px 2px 2px rgb(42, 42, 42);
+    margin-top: 20px;
+}
+
+.div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 20px;
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.btn{
+    font-size: 25px;
+}
+
+.btn1{
+    width: 18%;
+
+}
+.btn2a{
+    width: 25%;
+    margin-left: 30px;
+
+}
+.btn1b{
+    width: 15%;
+    color: purple;
+}
+.btn1a{
+    width: 15%;
+    color: purple;
+    margin-left: 20px;
+}
+.btn2{
+    width: 18%;
+    margin-left: 30px;
+}
+.btn4{
+    width: 45%;
+    margin-bottom: 10px;
+}
+.btn5{
+    width: 15%;
+    margin-bottom: 10px;
+    margin-left: 18px;
+}
+.btn6{
+    width: 15%;
+    margin-bottom: 10px;
+    color: purple;
+    margin-left: 40px;
+}
+.btn7{
+    width: 80%;
+}
+.btn7a{
+    width: 85%;
+    color: yellow
+}
+.equal{
+    height: 15vh;
+    width: 70%;
+    border-radius: 30px;
+    margin-top: 10px;
+    color: black;
+    background-color: rgb(255, 238, 0);
+    margin-left: 2px;
+}
+.overall{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.overall1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 22%;
+    margin-left: 30px;
+}
+.overall1a{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 22%;
+    margin-left: 10px;
+
+}
+.signs{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 20%;
+}
+.sign{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+}

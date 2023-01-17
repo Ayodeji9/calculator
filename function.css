@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    /* background: linear-gradient( rgba(239, 132, 2, 0.77) ,  rgba(139, 6, 163, 0.616)) !important; */
+    background-color: blue;
+ 
+}
+
+.circle1{
+    background-color: rgb(179, 255, 0) ;
+    height: 150px;
+    width: 150px;
+    border-radius: 250px;
+}
+.card{
+    background-color: rgba(240, 248, 255, 0.571);
+    /* margin-top: 250px; */
+    border-radius: 10px;
+}
+.bank{
+    font-size: 20px;
+    color: white;
+}
+.fa-credit-card{
+    color: white;
+    font-size: 40px;
+}
+.fonts{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+.fa-wifi{
+    color: white;
+    font-size: 50px;
+    rotate: 90deg;
+}
+.numbers{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.num1{
+    width: 18%;
+    font-size: 30px;
+    color: white;
+}
+.num2{
+    width: 18%;
+    margin-left: 30px;
+    font-size: 30px;
+    color: white;
+}
+.font{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between !important;
+}
+.dates{
+    display: flex;
+    flex-direction: row;
+    width: 23%;
+    color: white;
+    font-size: 20px;
+}
+.ddd{
+    padding-left: 10px;
+}
+.mastercard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 70%;
+    padding-left: 180px;
+}
+.card1{
+    width: 60px;
+    height: 60px;
+    background-color: rgba(255, 0, 0, 0.852);
+    transform: translateX(20px);
+    border-radius: 250px;
+}
+.card2{
+    width: 60px;
+    height: 60px;
+    background-color: goldenrod;
+    border-radius: 250px;
+}
+.card{
+    height: 200px;
+}
+.btn{
+    width: 275px;
+    color: rgba(43, 43, 43);
+    background-color: white;
+    border: none;
+}
+
+.dr{
+    background-color: rgb(0, 195, 255);
+    border: none;
+    width: 90px;
+    color: white;
+    padding: 5px;
+}
+.sr{
+    background-color: green;
+    transform: translateX(300px);
+  
+}
+
+.mr{
+    background-color: green;
+    margin-left: 200px;
+}
